@@ -1,0 +1,26 @@
+{
+  "name": "@morphis-labs/tsconfig",
+  "version": "1.0.7",
+  "author": "Morphis Labs<morphiswallet@gmail.com>",
+  "description": "morphis public tsconfig",
+  "keywords": [
+    "morphis",
+    "configs",
+    "tsconfig"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MorphisWallet/tsconfig.git"
+  },
+  "license": "MIT",
+  "files": [
+    "tsconfig.json"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
