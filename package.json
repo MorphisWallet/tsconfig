@@ -1,6 +1,6 @@
 {
   "name": "@morphis-labs/tsconfig",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Morphis Labs<morphiswallet@gmail.com>",
   "description": "morphis public tsconfig",
   "keywords": [
