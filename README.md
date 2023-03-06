@@ -1,4 +1,4 @@
-# tsconfig
+# tsconfig [![NPM version](https://img.shields.io/npm/v/@morphis-labs/tsconfig.svg)](https://www.npmjs.com/package/@morphis-labs/tsconfig)
 
 > Public [TypeScript config](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html) by Morphis Labs
 
